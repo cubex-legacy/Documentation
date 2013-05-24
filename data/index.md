@@ -14,8 +14,7 @@ locations, without having to bog down your code with functionality.
 There are several attribute types available:
 
 - [Base Attribute](/docs/data/attributes#baseattribute)
-- [Polymorphic Attributes](/docs/data/attributes#polymorphic)
-- [Callback Attributes](/docs/data/attributes#callback)
-- [Mutributes](/docs/data/attributes#multribute)
 - [Composite Attributes](/docs/data/attributes#composite)
 - [Compound Attributes](/docs/data/attributes#compound)
+- [Polymorphic Attributes](/docs/data/attributes#polymorphic)
+- [Callback Attributes](/docs/data/attributes#callback)
