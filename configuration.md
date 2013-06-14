@@ -2,7 +2,7 @@
 
 ###Introduction
 All configurations for a Cubex project are stored within the conf directory.
-Cubex configurations are stored with ini files, based on some speed testing
+Cubex configurations are stored with ini files (based on some speed testing)
 and will include defaults.ini and {CUBEX_ENV}.ini by default.
 
 The method by which configs are included and which configs are included can be
