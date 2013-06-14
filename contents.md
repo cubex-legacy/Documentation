@@ -2,6 +2,7 @@
 
 ####Getting Started
 - [Installation](/docs/installation)
+- [Terminology](/docs/terminology)
 - [Configuration](/docs/configuration)
 - [Request Lifecycle](/docs/lifecycle)
 - [Routing](/docs/routing)
