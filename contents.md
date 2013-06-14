@@ -18,6 +18,7 @@
 - [Caching](/docs/)
 - [Cookies](/docs/)
 - [Database](/docs/)
+-- [MySQL](/docs/)
 - [Email](/docs/)
 - [Events](/docs/)
 - [Forms](/docs/)
